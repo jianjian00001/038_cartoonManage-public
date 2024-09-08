@@ -1,8 +1,10 @@
-### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
+---
+### 👉作者QQ ：1556708905 微信：zheng0123Long (支持修改、部署调试、定制毕设)
 
-#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+### 👉接网站建设、小程序、H5、APP、各种系统等
 
-**毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
+### 👉选题+开题报告+任务书+程序定制+安装调试+ppt 都可以做**毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
+---
 
 **博客地址：[https://blog.csdn.net/2303_76227485/article/details/128663424](https://blog.csdn.net/2303_76227485/article/details/128663424)**
 
@@ -112,13 +114,17 @@
 ## 六、安装教程
 
 1. 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并导入项目的sql文件；
+
 2. 使用IDEA/Eclipse/MyEclipse导入项目，Eclipse/MyEclipse导入时，若为maven项目请选择maven;
    
    若为maven项目，导入成功后请执行maven clean;maven install命令，然后运行；
-3. 修改application.yml 里面的数据库配置和redis配置
-4. 启动项目后端项目 
-5. vscode打开apm-ui项目，
-6. 打开终端，执行npm install 依赖下载完成后执行 npm run dev,执行成功后会显示访问地址
-7. 访问  http://localhost:8088/
 
- 
+3. 修改application.yml 里面的数据库配置和redis配置
+
+4. 启动项目后端项目 
+
+5. vscode打开apm-ui项目，
+
+6. 打开终端，执行npm install 依赖下载完成后执行 npm run dev,执行成功后会显示访问地址
+
+7. 访问  http://localhost:8088/
